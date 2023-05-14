@@ -1,2 +1,2 @@
-# express-typescript-welbex
-Test assignment for WelbeX
+# express-typescript
+Test assignment
